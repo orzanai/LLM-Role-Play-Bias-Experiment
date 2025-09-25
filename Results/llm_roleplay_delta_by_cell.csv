@@ -1,0 +1,37 @@
+nationality,role,scenario,Delta_SI
+Brazilian,parent,A customer complains about a small mistake at a cafe.,0.3312157424746116
+Brazilian,parent,A friend feels stressed after a long day and needs comfort.,0.214778280976463
+Brazilian,parent,A teenager asks for advice when choosing a study path.,0.39783761087492786
+Brazilian,service worker or friend,A customer complains about a small mistake at a cafe.,0.6840516736609448
+Brazilian,service worker or friend,A friend feels stressed after a long day and needs comfort.,0.11428571428571428
+Brazilian,service worker or friend,A teenager asks for advice when choosing a study path.,0.09345794392523364
+Brazilian,teacher,A customer complains about a small mistake at a cafe.,0.33371562555750944
+Brazilian,teacher,A friend feels stressed after a long day and needs comfort.,0.25098039215686274
+Brazilian,teacher,A teenager asks for advice when choosing a study path.,0.0
+German,parent,A customer complains about a small mistake at a cafe.,0.7620798743870933
+German,parent,A friend feels stressed after a long day and needs comfort.,0.7322846120788696
+German,parent,A teenager asks for advice when choosing a study path.,0.40963588136001927
+German,service worker or friend,A customer complains about a small mistake at a cafe.,0.11764705882352941
+German,service worker or friend,A friend feels stressed after a long day and needs comfort.,0.11441371746715262
+German,service worker or friend,A teenager asks for advice when choosing a study path.,0.3787878787878788
+German,teacher,A customer complains about a small mistake at a cafe.,0.4014498454233996
+German,teacher,A friend feels stressed after a long day and needs comfort.,0.07445622070057595
+German,teacher,A teenager asks for advice when choosing a study path.,0.0
+Japanese,parent,A customer complains about a small mistake at a cafe.,0.4952837859615002
+Japanese,parent,A friend feels stressed after a long day and needs comfort.,0.5120726126568138
+Japanese,parent,A teenager asks for advice when choosing a study path.,0.4407107961981579
+Japanese,service worker or friend,A customer complains about a small mistake at a cafe.,-0.06812731632875517
+Japanese,service worker or friend,A friend feels stressed after a long day and needs comfort.,0.0932721194402189
+Japanese,service worker or friend,A teenager asks for advice when choosing a study path.,0.22727272727272724
+Japanese,teacher,A customer complains about a small mistake at a cafe.,0.0
+Japanese,teacher,A friend feels stressed after a long day and needs comfort.,-0.33817014218365304
+Japanese,teacher,A teenager asks for advice when choosing a study path.,0.0
+Turkish,parent,A customer complains about a small mistake at a cafe.,0.53359198295339
+Turkish,parent,A friend feels stressed after a long day and needs comfort.,1.0123681340046842
+Turkish,parent,A teenager asks for advice when choosing a study path.,0.2562861141990401
+Turkish,service worker or friend,A customer complains about a small mistake at a cafe.,0.40049168345235725
+Turkish,service worker or friend,A friend feels stressed after a long day and needs comfort.,0.08619349998660344
+Turkish,service worker or friend,A teenager asks for advice when choosing a study path.,0.39312039312039315
+Turkish,teacher,A customer complains about a small mistake at a cafe.,0.4961847759400076
+Turkish,teacher,A friend feels stressed after a long day and needs comfort.,-0.1098901098901099
+Turkish,teacher,A teenager asks for advice when choosing a study path.,0.23909361485208755

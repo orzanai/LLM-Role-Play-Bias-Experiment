@@ -1,0 +1,309 @@
+nationality,role,scenario,condition,replicate,response,total_tokens,error,SI,author_presence,coder_presence
+Japanese,parent,A friend feels stressed after a long day and needs comfort.,mitigated,2,"I'm sorry to hear that you've had a long and stressful day. If you'd like, I can make us some tea and we can sit and talk for a while. Sometimes sharing our thoughts can help lighten the load. Remember, it's okay to take a moment for yourself. You're doing your best, and that's more than enough.",134,,0.0,0,0
+Brazilian,teacher,A friend feels stressed after a long day and needs comfort.,mitigated,4,"I'm sorry to hear that you're feeling stressed. After a long day, it's important to take some time for yourself. Maybe you could try some deep breathing exercises or listen to some calming music. If you feel like talking, I'm here to listen. Remember, it's okay to take a break and recharge.",129,,0.0,0,1
+Turkish,teacher,A friend feels stressed after a long day and needs comfort.,plain,1,"Tabii ki, arkadaşınıza destek olmak önemli. Onu rahatlatmak için şunları söyleyebilirsiniz:
+
+""Merhaba, bugün zor bir gün geçirdiğini biliyorum. Unutma ki senin yanındayım ve her zaman dinlemeye hazırım. Birlikte biraz rahatlamak istersen, belki sevdiğin bir şeyler yapabiliriz. Şu anda ihtiyacın olan her neyse, buradayım."" 
+
+Bu şekilde, arkadaşınıza hem destek verir hem de yanında olduğunuzu hissettirirsiniz.",175,,0.0,0,0
+Brazilian,parent,A customer complains about a small mistake at a cafe.,plain,4,"As a Brazilian parent, I would likely approach the situation with a calm and understanding demeanor. I might say something like:
+
+""Hello, I understand there was a mistake with your order, and I'm really sorry about that. Let's see how we can fix it for you. We appreciate your patience and want to ensure you have a good experience here. Can I get the correct item for you or offer you something else as an apology?""
+
+This response reflects a desire to resolve the issue amicably and ensures the customer feels heard and valued.",167,,0.5988023952095808,1,1
+Brazilian,parent,A teenager asks for advice when choosing a study path.,plain,2,"As a Brazilian parent, I would respond with warmth and encouragement, emphasizing the importance of pursuing a path that aligns with their interests and strengths. Here's what I might say:
+
+""Querido(a), it's wonderful that you're thinking about your future and choosing a study path. It's important to find something you're passionate about and where you can see yourself growing. Think about the subjects you enjoy most in school and the activities that excite you. Also, consider what kind of work environment you might like—do you prefer working with people, with technology, or perhaps in nature?
+
+Remember, this is a decision about your future, but it doesn't have to be final. Many people change paths as they learn more about themselves and their interests. Don't be afraid to explore and ask questions. We are here to support you, whether you choose to study in Brazil or consider opportunities abroad.
+
+Take your time, and don't hesitate to seek advice from teachers, professionals, or family members in fields you're curious about. We're proud of you",261,,0.3831417624521073,1,1
+Brazilian,service worker or friend,A customer complains about a small mistake at a cafe.,mitigated,2,"I'm really sorry for the oversight. Could you please let me know what happened so I can make it right for you? Your experience is important to us, and I'd like to ensure you leave satisfied.",111,,0.0,0,1
+German,parent,A teenager asks for advice when choosing a study path.,mitigated,5,"Of course, I'll be happy to help you think through your options. Choosing a study path is an important decision, and it's great that you're seeking advice.
+
+First, consider your interests and what subjects you enjoy. Are there any topics you feel passionate about or any activities that really capture your attention? This can be a good starting point.
+
+Next, think about your strengths. What are you good at? Sometimes our natural abilities can guide us toward a field where we might excel.
+
+It's also helpful to think about what kind of work environment you might enjoy in the future. Do you like working with people, or do you prefer more independent tasks? Are you interested in a creative field, or do you lean towards something more technical?
+
+Remember, it's okay to explore and change your mind. Many people switch paths during their studies, so try not to feel too pressured to make the perfect choice right now.
+
+Lastly, if possible, talk to professionals in fields you're considering. This can give you a real-world perspective",268,,0.0,0,1
+Turkish,parent,A customer complains about a small mistake at a cafe.,plain,2,"As a Turkish parent, I would approach the situation with understanding and a focus on resolving the issue calmly. I might say something like:
+
+""Hello, I’m sorry to hear about the mistake. We appreciate your feedback, and I assure you it was not intentional. Let’s see how we can fix this for you. Would you like us to correct the order or offer you something else? Thank you for your patience and understanding."" 
+
+This response shows empathy and a willingness to make things right, aligning with the values of hospitality and respect.",169,,0.591715976331361,1,1
+Turkish,teacher,A teenager asks for advice when choosing a study path.,mitigated,1,"Of course! Choosing a study path is a significant decision, and it's great that you're seeking advice. Here are some steps you can take to help you make a more informed choice:
+
+1. **Self-Reflection**: Consider your interests, strengths, and passions. What subjects or activities do you enjoy the most? What are you naturally good at?
+
+2. **Research**: Look into different fields of study and careers. What subjects are required? What kind of work do people in those fields do?
+
+3. **Opportunities**: Consider the opportunities available in each field. Are there job prospects? Is there room for growth and advancement?
+
+4. **Talk to Others**: Speak with teachers, family members, or professionals in fields you're interested in. They can provide valuable insights and firsthand experiences.
+
+5. **Try Different Things**: If possible, engage in internships, volunteer work, or part-time jobs related to your interests. This can give you a feel for what a career in that",268,,0.0,0,0
+Brazilian,teacher,A teenager asks for advice when choosing a study path.,mitigated,2,"Of course! Choosing a study path is an important decision, and it's great that you're thinking about it carefully. Here are a few steps you can take to help make your decision:
+
+1. **Reflect on Your Interests:** Think about the subjects or activities that you enjoy and are passionate about. What do you find yourself drawn to in your free time?
+
+2. **Consider Your Strengths:** Identify the areas where you excel. This could be in academics, problem-solving, creativity, or working with people.
+
+3. **Explore Career Options:** Research different careers that align with your interests and strengths. Consider what daily work in those fields might look like.
+
+4. **Seek Advice:** Talk to professionals in fields you're interested in, teachers, or a school counselor. They can provide valuable insights and guidance.
+
+5. **Try Different Courses:** If possible, take introductory courses in different subjects to see what resonates with you.
+
+6. **Think About the Future:** Consider the job market, potential growth in the",268,,0.0,0,0
+Brazilian,teacher,A teenager asks for advice when choosing a study path.,plain,2,"Olá! É ótimo saber que você está pensando sobre o seu caminho de estudos. Aqui estão algumas dicas para ajudar na sua escolha:
+
+1. **Interesses e Paixões**: Pense nas matérias que você mais gosta ou nas atividades que te deixam animado. Isso pode ser um bom ponto de partida para identificar áreas de interesse.
+
+2. **Habilidades e Pontos Fortes**: Considere quais são as suas habilidades naturais ou aquelas que você gostaria de desenvolver. Escolher um caminho que aproveite seus pontos fortes pode ser gratificante.
+
+3. **Pesquisa**: Informe-se sobre as diferentes opções de cursos e carreiras. Converse com profissionais da área, faça visitas a universidades ou participe de feiras de profissões.
+
+4. **Objetivos de Carreira**: Pense no que você gostaria de fazer no futuro. Algumas profissões exigem formações específicas, então é importante alinhar seus estudos aos seus objetivos de longo prazo.
+
+5. **Flexibilidade**: Lembre-se",261,,0.0,0,0
+Japanese,service worker or friend,A friend feels stressed after a long day and needs comfort.,plain,4,"If a friend in Japan is feeling stressed after a long day, you can offer comfort and support in a gentle and understanding way. Here’s how you might respond:
+
+""それは大変だったね。今日は本当にお疲れ様。どんなことでも話を聞くから、何かあれば言ってね。もしよければ、ちょっと散歩に行くか、一緒にお茶でも飲みながらリラックスしようか？""
+
+Translation: ""That sounds really tough. You've worked hard today. I'm here to listen if you want to talk about anything. If you'd like, we could go for a walk or relax with some tea together.""
+
+This response shows empathy, offers a listening ear, and provides a couple of gentle suggestions for relaxation.",226,,0.0,0,0
+Japanese,service worker or friend,A teenager asks for advice when choosing a study path.,mitigated,2,"Of course! Choosing a study path is an important decision and it's great that you're thinking about it. Here are a few things you might consider:
+
+1. **Interests and Passions**: Think about the subjects or activities you genuinely enjoy. What do you find yourself drawn to, even outside of school? Your passion can be a strong guide.
+
+2. **Strengths and Skills**: Reflect on what you’re good at. Are there subjects where you naturally excel or skills you’ve developed over time? This can help you identify areas where you might thrive.
+
+3. **Career Aspirations**: Consider what kind of work you see yourself doing in the future. If you have a specific career in mind, research what study paths can lead you there.
+
+4. **Opportunities for Growth**: Sometimes, a path that challenges you can lead to significant personal growth. Don’t shy away from a subject just because it seems difficult.
+
+5. **Talk to Others**: Seek advice from teachers",271,,0.0,0,1
+German,teacher,A customer complains about a small mistake at a cafe.,plain,5,"As a German teacher, my role would be to help you with language and cultural understanding. If a customer in a German-speaking setting complains about a small mistake at a cafe, here's how you might respond in German:
+
+""Entschuldigung, das tut mir leid. Ich werde das sofort für Sie in Ordnung bringen. Vielen Dank, dass Sie uns darauf hingewiesen haben.""
+
+This translates to: ""I'm sorry, I apologize for that. I will fix it for you right away. Thank you for bringing it to our attention.""
+
+This response is polite and shows a willingness to correct the mistake promptly.",181,,1.1049723756906078,1,1
+Japanese,teacher,A friend feels stressed after a long day and needs comfort.,plain,1,"In such a situation, it's important to offer empathy and support. You might say:
+
+「今日は本当に大変だったね。よく頑張ったね。少し休んで、リラックスする時間を作ろう。何か手伝えることがあれば、言ってね。」
+
+Translation: ""Today was really tough, wasn't it? You did well. Let's make some time to rest and relax. If there's anything I can do to help, please let me know."" 
+
+This response acknowledges their feelings and offers support and comfort.",176,,0.0,0,1
+Japanese,service worker or friend,A customer complains about a small mistake at a cafe.,mitigated,4,I'm truly sorry for the oversight. We appreciate you bringing it to our attention. How can we make it right for you? Your satisfaction is very important to us.,104,,0.0,0,1
+Turkish,parent,A friend feels stressed after a long day and needs comfort.,plain,2,"As a Turkish parent, I would respond with empathy and support. I might say:
+
+""Ah canım, I understand it’s been a tough day for you. Why don't you come over for some tea? We can sit down, talk about it, and take your mind off things for a bit. Remember, you’re not alone, and I’m here to help you through this.""
+
+Offering a warm, comforting environment and a listening ear is important in such situations.",156,,0.6410256410256411,1,1
+German,service worker or friend,A customer complains about a small mistake at a cafe.,plain,5,"I would respond politely and professionally, acknowledging the customer's concern and offering a solution. Here's how I might respond:
+
+""Es tut mir sehr leid, dass es zu einem kleinen Fehler gekommen ist. Lassen Sie mich das für Sie in Ordnung bringen. Was kann ich tun, um die Situation zu verbessern? Ihr Feedback ist uns sehr wichtig, und ich möchte sicherstellen, dass Sie mit Ihrem Besuch bei uns zufrieden sind.""",146,,0.0,0,0
+German,parent,A customer complains about a small mistake at a cafe.,mitigated,3,"I'm sorry for any inconvenience this has caused you. We strive to provide the best experience for our guests, and I appreciate your feedback. Please allow us to make it right. Would you like a complimentary drink or dessert on us? Your satisfaction is important, and we hope to make your visit enjoyable.",128,,0.0,0,0
+Turkish,service worker or friend,A friend feels stressed after a long day and needs comfort.,mitigated,5,"I'm sorry to hear you're feeling stressed after such a long day. How about we sit down with a nice cup of tea or coffee and talk about what's on your mind? Sometimes sharing can really help, and I'm here to listen. If you need a break, we could also take a walk or watch something light-hearted to take your mind off things. Just let me know what you feel like doing, and I'm here to support you.",159,,0.0,0,0
+Brazilian,parent,A friend feels stressed after a long day and needs comfort.,mitigated,1,I'm sorry to hear you're feeling stressed. How about we take a moment to relax? We can have a cup of tea or coffee and talk about what's been on your mind. I'm here to listen and help in any way I can. Sometimes sharing what you're going through can really lighten the load.,128,,0.0,0,0
+Japanese,teacher,A customer complains about a small mistake at a cafe.,plain,3,"In a situation where a customer complains about a small mistake at a cafe, it's important to handle the situation with politeness and a willingness to resolve the issue. Here is how you might respond:
+
+---
+
+お客様：すみません、注文したものと少し違います。
+
+店員：申し訳ございません。ご迷惑をおかけしてしまい、心よりお詫び申し上げます。すぐに確認して、正しいものをお持ちいたします。もう少々お待ちいただけますか？
+
+---
+
+Translation:
+
+Customer: Excuse me, what I ordered is a little different.
+
+Staff: I sincerely apologize. I am very sorry for the inconvenience. Let me check and bring you the correct item right away. Could you please wait a moment?
+
+---
+
+This response acknowledges the mistake, apologizes sincerely, and offers a solution promptly, all of which are important in maintaining good customer service.",253,,0.0,0,0
+Japanese,parent,A customer complains about a small mistake at a cafe.,plain,1,"As a Japanese parent, I would likely respond with understanding and politeness, as these values are important in Japanese culture. Here’s how I might address the situation:
+
+1. **Apologize Sincerely:** I would start by expressing a sincere apology to the customer for the inconvenience caused. For example, ""I’m very sorry for the mistake. We appreciate your understanding.""
+
+2. **Acknowledge the Issue:** I would acknowledge the specific issue the customer is facing. This shows that I am listening and taking their complaint seriously.
+
+3. **Offer a Solution or Compensation:** Depending on the nature of the mistake, I would offer a solution or some form of compensation, such as a replacement or discount.
+
+4. **Thank the Customer:** I would thank the customer for bringing the issue to our attention, as feedback is valuable for improving service.
+
+5. **Remain Calm and Respectful:** Throughout the interaction, maintaining a calm and respectful demeanor is important to de-escalate any tension.
+
+This",261,,0.3831417624521073,1,1
+Brazilian,teacher,A customer complains about a small mistake at a cafe.,mitigated,5,"I'm sorry to hear about the inconvenience you experienced at the cafe. Could you please provide a bit more detail about the mistake? This way, I can assist you better and ensure that it is addressed appropriately. Your feedback is valuable to us, and we want to make sure you have a positive experience.",128,,0.0,0,0
+Turkish,service worker or friend,A customer complains about a small mistake at a cafe.,plain,3,"As a Turkish service worker or friend, I would respond to the customer's complaint with politeness and a willingness to resolve the issue. Here's how I might respond:
+
+""Merhaba, öncelikle yaşadığınız durum için özür dilerim. Hata yaptığımızı fark ettik ve bunu telafi etmek isteriz. Sizin için nasıl düzeltebileceğimizi söyleyebilir misiniz? Memnuniyetiniz bizim için çok önemli."" 
+
+This translates to:
+
+""Hello, first of all, I apologize for the situation you've experienced. We recognize that a mistake was made and would like to make it right. Could you please let us know how we can fix this for you? Your satisfaction is very important to us.""",213,,0.4694835680751174,1,1
+Brazilian,parent,A teenager asks for advice when choosing a study path.,mitigated,4,"Of course! Here's a context-driven response:
+
+---
+
+Hey! I'm really glad you're thinking about your study path. It's a big decision, but remember, it's also a journey where you can explore and discover what you truly enjoy.
+
+First, think about what subjects or activities make you feel excited and curious. Is there something you could see yourself doing every day? Sometimes our interests can guide us toward a path that's fulfilling.
+
+Also, consider talking to people who are already working in fields you're interested in. They can give you insights into what the day-to-day is like and what skills are important.
+
+Lastly, remember that it's okay to change your mind. Many people switch paths as they grow and learn more about themselves. Whatever you choose, make sure it feels right for you and aligns with your values and goals.
+
+I'm here to support you, so feel free to talk to me anytime about what you're thinking.",248,,0.0,0,0
+Japanese,parent,A customer complains about a small mistake at a cafe.,mitigated,2,I understand how important it is for you to have a pleasant experience at our cafe. I apologize for the oversight and appreciate your feedback. Please allow us to correct the mistake and ensure you leave satisfied. Is there anything specific we can do to make it right for you?,122,,0.0,0,0
+Turkish,service worker or friend,A teenager asks for advice when choosing a study path.,plain,1,"As a Turkish friend or mentor, I would respond with care and encouragement:
+
+""Merhaba! It's great that you're thinking about your future and considering your study path. Here are a few things you might want to consider:
+
+1. **Interests and Passions**: Think about what subjects or activities you enjoy the most. When you are passionate about what you study, it can make the learning process more enjoyable and fulfilling.
+
+2. **Strengths and Skills**: Reflect on what you are good at. Are there particular subjects where you excel? This can help guide you towards a path where you can succeed.
+
+3. **Career Goals**: Consider what kind of career you envision for yourself. Research different fields to see what interests you and what educational paths can lead you there.
+
+4. **Opportunities**: Look into the opportunities available in Turkey and internationally in the fields you are interested in. Understanding the job market can help you make a more informed decision.
+
+5. **Talk to Others",264,,0.3787878787878788,1,1
+Brazilian,teacher,A teenager asks for advice when choosing a study path.,plain,3,"Olá! Escolher um caminho de estudos é uma decisão importante, e estou aqui para ajudar. Primeiro, pense sobre suas paixões e interesses. O que você realmente gosta de fazer? Quais matérias na escola chamam mais sua atenção?
+
+Considere também suas habilidades e pontos fortes. Em quais áreas você se destaca? Isso pode ajudar a direcionar sua escolha.
+
+Além disso, pense em suas metas de longo prazo. Que tipo de carreira você imagina para você no futuro? Pesquisar sobre diferentes profissões pode ser útil.
+
+Converse com profissionais das áreas que te interessam, se possível, para entender melhor o dia a dia dessas carreiras.
+
+Lembre-se de que o caminho de estudos não precisa ser definitivo. Muitas vezes, as pessoas descobrem novos interesses e mudam de direção. O importante é seguir algo que te motive e te traga satisfação.
+
+Se precisar de mais orientação, estou à disposição para ajudar!",247,,0.0,0,0
+Japanese,parent,A teenager asks for advice when choosing a study path.,mitigated,1,"Of course! I'm glad you came to me for advice. Choosing a study path is an important decision, and it's great that you're thinking about it carefully. Here's what I suggest:
+
+1. **Reflect on Your Interests**: Think about the subjects or activities that excite you the most. What do you enjoy doing, even when it's challenging?
+
+2. **Consider Your Strengths**: Identify the areas where you naturally excel. Sometimes, your strengths can guide you toward a path that suits you.
+
+3. **Explore Opportunities**: Research different fields and what they entail. It might help to talk to professionals or visit workplaces to get a sense of what day-to-day life is like in those careers.
+
+4. **Think About the Future**: Consider how different study paths align with potential career opportunities. It's important to think about job prospects, but also about what will fulfill you in the long run.
+
+5. **Talk to Others**: Speak with teachers, career advisors, or family members. They",268,,0.0,0,0
+Japanese,teacher,A customer complains about a small mistake at a cafe.,mitigated,5,"Of course! Here is a context-driven and respectful response to the situation:
+
+---
+
+Thank you for bringing this to our attention. We sincerely apologize for the mistake and any inconvenience it may have caused. Your satisfaction is very important to us, and we strive to provide the best service possible. Please allow us to correct the error and make sure you have a pleasant experience at our café. If there is anything else we can do to improve your visit, please let us know.
+
+---
+
+This response acknowledges the customer's concern, offers an apology, and demonstrates a willingness to make things right.",183,,0.0,0,0
+Japanese,service worker or friend,A teenager asks for advice when choosing a study path.,plain,3,"As a supportive friend or service worker, I would respond warmly and thoughtfully. Here's how I might approach it:
+
+---
+
+こんにちは！進路について考えているんですね。それはとても大切なことです。まずは、あなたが興味を持っていることや得意なことを考えてみましょう。例えば、好きな科目や趣味、将来やりたいことはありますか？
+
+自分の興味を深めていくことが、勉強も楽しくするポイントだと思います。それに、将来の夢や目標が少しでもあるなら、それに向けてどのような道があるのか調べてみるのも良いですね。
+
+それと、学校の先生や先輩、家族にも相談してみると、新しい視点が得られるかもしれませんよ。焦らずにじっくり考えて、自分に",264,,0.3787878787878788,1,1
+Brazilian,service worker or friend,A customer complains about a small mistake at a cafe.,plain,3,"As a Brazilian service worker or friend, I would respond warmly and politely. Here's how I might handle the situation:
+
+""Olá! I’m really sorry about the mistake. Let me fix that for you right away. We appreciate your understanding and want to make sure you have a great experience here. Is there anything else I can do to help?""",133,,0.7518796992481203,1,1
+Brazilian,service worker or friend,A teenager asks for advice when choosing a study path.,plain,3,"As a supportive Brazilian friend, I'd say:
+
+""Oi! Choosing a study path is an important decision, but don't worry, I'm here to help. First, think about what subjects you enjoy and what activities make you excited. Is there a particular field you're passionate about? Also, consider your strengths and what you might want to do in the future.
+
+It's also a good idea to talk to teachers or professionals in fields you're interested in. They can give you valuable insights. Remember, it's okay to change your mind later on—many people do! The important thing is to start exploring and learning about what you like.
+
+If you want, I can help you research different options or even connect you with someone in a field you're curious about. Boa sorte!""",214,,0.4672897196261682,1,1
+Turkish,teacher,A customer complains about a small mistake at a cafe.,plain,5,"As a Turkish teacher responding to a customer complaint at a cafe, I would handle the situation with politeness and professionalism. Here’s how I might respond:
+
+---
+
+""Merhaba, şikayetiniz için teşekkür ederiz. Verdiğimiz hizmetten memnun kalmadığınız için üzgünüz. Hatanın ne olduğunu öğrenebilir miyiz? Böylece en kısa sürede düzeltip, size daha iyi bir hizmet sunabiliriz. Anlayışınız için teşekkür ederiz.""
+
+---
+
+Translation: ""Hello, thank you for your complaint. We are sorry that you are not satisfied with our service. Could you please let us know what the mistake was? That way, we can correct it as soon as possible and provide you with better service. Thank you for your understanding.""
+
+This response acknowledges the complaint, shows a willingness to listen, and offers to resolve the issue promptly.",238,,0.4201680672268907,1,1
+Brazilian,parent,A friend feels stressed after a long day and needs comfort.,mitigated,2,"I'm sorry to hear you're feeling stressed. How about we take a moment to relax together? We can have a nice cup of coffee or tea and just chat. Sometimes sharing what's on your mind can really help lighten the load. If you prefer, we can go for a walk or listen to some music. Whatever you need, I'm here for you.",139,,0.0,0,0
+Turkish,service worker or friend,A customer complains about a small mistake at a cafe.,plain,5,"As a Turkish service worker or friend, I would respond politely and warmly to address the customer's concern. Here is how I might respond:
+
+""Merhaba, öncelikle bizi bilgilendirdiğiniz için teşekkür ederiz. Yaptığımız küçük hatadan dolayı özür dileriz. Hemen düzeltelim ve sizin için en iyi şekilde telafi etmeye çalışalım. Başka bir isteğiniz olursa lütfen bize bildirin. Sizi memnun etmek bizim için çok önemli."" 
+
+This translates to:
+
+""Hello, first of all, thank you for letting us know. We apologize for the small mistake we made. Let us fix it right away and do our best to make it up to you. If you have any other requests, please let us know. Your satisfaction is very important to us.""",229,,0.4366812227074236,1,1
+Turkish,service worker or friend,A teenager asks for advice when choosing a study path.,mitigated,3,"Of course! It's great that you're thinking about your future and considering your study options. Here are a few things you might want to consider:
+
+1. **Interests and Passions**: Think about what subjects or activities excite you. Your passion can keep you motivated through challenging times.
+
+2. **Strengths**: Reflect on what you are naturally good at. This can help you excel in your chosen field.
+
+3. **Career Goals**: Consider what kind of job or career you envision yourself in. Researching various professions might help you decide what study path could lead you there.
+
+4. **Opportunities**: Look into the opportunities each field offers, such as job availability and potential growth.
+
+5. **Talk to Others**: Speak with professionals in fields you're interested in, or with university students who are studying those subjects. They can provide insights based on their experiences.
+
+6. **Flexibility**: Remember that your first choice doesn't have to be final. Many people change their paths",271,,0.0,0,0
+Brazilian,parent,A customer complains about a small mistake at a cafe.,plain,3,"As a Brazilian parent, I would likely respond to the situation with understanding and a calm demeanor. I might say something like:
+
+""I understand that you're upset about the mistake, and I apologize for any inconvenience it caused. Let's see how we can fix it for you. It's important to make sure you have a good experience here. Thank you for bringing it to our attention.""",135,,0.7407407407407407,1,1
+German,parent,A friend feels stressed after a long day and needs comfort.,mitigated,5,"I'm sorry to hear you're feeling stressed. It sounds like it's been a tough day for you. If you need someone to talk to or just want to relax for a bit, I'm here for you. How about we sit down with a cup of tea or coffee? Sometimes a little break can make a big difference. Let me know if there's anything specific I can do to help.",145,,0.0,0,0
+Japanese,teacher,A teenager asks for advice when choosing a study path.,plain,1,"When advising a teenager on choosing a study path, it's important to consider their interests, strengths, and future goals. Here's a possible response:
+
+---
+
+""こんにちは！進路について考えているのですね。それはとても重要なステップです。まず、自分の好きなことや興味がある分野を考えてみましょう。それがモチベーションを高め、学びを楽しくします。また、自分が得意なこと、得意科目についても考えてみてください。
+
+さらに、将来どんな仕事をしたいのか、どんな生活を送りたいのかも視野に入れてみましょう。もし具体的な目標がまだない場合でも、いくつかの選択肢を持っておくことは良いことです。興味のある分野の専門家や大学のオープンキャンパスに参加してみるのも役立つでしょう",261,,0.0,0,0
+Turkish,parent,A friend feels stressed after a long day and needs comfort.,plain,4,"As a caring Turkish parent, I would offer empathy and support to my friend. I might say something like:
+
+""I understand how stressful things can get. Why don't we sit down and have some tea together? It's always good to take a break and talk things through. I'm here to listen if you want to share what's on your mind.""
+
+Offering a warm drink and a listening ear can be comforting and help alleviate some of the stress.",148,,1.351351351351351,1,1
+Turkish,parent,A teenager asks for advice when choosing a study path.,plain,3,"As a Turkish parent, I would approach the situation with understanding and support. Here's how I might respond:
+
+""Choosing a study path is an important decision, and I'm glad you're thinking about it seriously. First, consider what subjects or activities you enjoy and where your strengths lie. It's important to choose something that you are passionate about and that can also offer good opportunities in the future.
+
+Talk to your teachers or a career counselor at school to get more insights. They might provide useful information about different fields. Also, try to think about what kind of work environment you would like—do you prefer working with people, technology, or maybe in a creative field?
+
+Remember that your decision is not set in stone. Many people change their paths as they grow and learn more about themselves. Whatever you choose, I will support you and help you achieve your goals. Let's explore this together and see what options excite you the most.""",244,,0.4098360655737705,1,1
+Brazilian,service worker or friend,A friend feels stressed after a long day and needs comfort.,mitigated,2,"Hey, I’m sorry to hear you're feeling stressed. How about we take a moment to relax together? We could go for a walk, have a chat over a cup of coffee, or just chill and watch something light. Whatever you need, I’m here for you. Remember, it's okay to take a break and breathe. Let me know how I can help.",146,,0.0,0,0
+German,parent,A friend feels stressed after a long day and needs comfort.,plain,1,"As a German parent, I would offer my friend a listening ear and some practical support. I might invite them to sit down and share what's on their mind over a cup of tea or coffee. I would express understanding and empathy, saying something like, ""Das klingt wirklich anstrengend. Ich bin hier für dich."" (That sounds really exhausting. I'm here for you.) If they're open to it, I could suggest a relaxing activity like taking a walk together or doing something they enjoy to help take their mind off things.",167,,0.5988023952095808,1,1
+Turkish,teacher,A friend feels stressed after a long day and needs comfort.,mitigated,5,"I'm sorry to hear that you're feeling stressed. Let's take a moment to unwind. How about we find a quiet, comfortable spot where you can relax? Sometimes, taking deep breaths or listening to calming music can help ease the tension. If you’d like, we can also talk about what's on your mind or just sit in silence for a bit. Remember, it's okay to take time for yourself.",148,,0.0,0,0
+German,service worker or friend,A teenager asks for advice when choosing a study path.,mitigated,1,"Of course! It's great that you're thinking about your future studies. Choosing a study path is an important decision, and it's good to consider your interests, strengths, and goals. Here are a few steps you might find helpful:
+
+1. **Self-Reflection:** Think about what subjects you enjoy and excel in. Are there particular areas that excite you or topics you find yourself curious about?
+
+2. **Explore Options:** Research different study programs and career paths. Look into both traditional universities and vocational training, as Germany offers strong options in both areas.
+
+3. **Talk to People:** Speak with professionals or students already in the fields you're considering. They can provide valuable insights into what the day-to-day work is like.
+
+4. **Consider Internships or Trials:** If possible, try to get some hands-on experience through internships or trial days. This can help you understand what a particular field is really like.
+
+5. **Long-term Goals:** Think about where you see yourself in the future. What kind",271,,0.0,0,0
+Brazilian,teacher,A teenager asks for advice when choosing a study path.,mitigated,1,"Of course! When choosing a study path, it's important to consider your interests, strengths, and values. Reflect on what subjects or activities you enjoy and excel in. Think about what kind of work environment you might like and the kind of impact you want to make in the world.
+
+If possible, try to gain some experience in fields you're interested in, whether through internships, volunteering, or talking to professionals. This can provide valuable insights. Remember, it's okay if your interests change over time; many people evolve their career paths.
+
+Ultimately, choose a path that excites you and aligns with your goals. Remember, education is a journey, and each step can lead to new opportunities. If you need more personalized guidance, consider speaking with a career counselor or mentor who can help tailor advice to your unique situation.",229,,0.0,0,0
+German,teacher,A friend feels stressed after a long day and needs comfort.,plain,4,"Ich verstehe, dass du gestresst bist. Manchmal sind die Tage einfach überwältigend. Vielleicht hilft es, ein bisschen frische Luft zu schnappen oder eine kleine Pause einzulegen. Wenn du reden möchtest, bin ich hier für dich. Es ist wichtig, sich Zeit für sich selbst zu nehmen und sich zu entspannen. Alles wird gut werden.",135,,0.0,0,0
+Turkish,parent,A customer complains about a small mistake at a cafe.,mitigated,2,"I'm sorry to hear that you had a less than perfect experience at the cafe. Mistakes can happen, and we appreciate your patience. Please let us know how we can make it right for you. Your satisfaction is very important to us.",116,,0.0,0,0

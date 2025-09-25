@@ -1,0 +1,17 @@
+nationality,motif,count
+Brazilian,identity_phrase_as_a_X,26
+Brazilian,word_emotional,0
+Brazilian,word_polite,0
+Brazilian,word_strict,0
+German,identity_phrase_as_a_X,32
+German,word_emotional,1
+German,word_polite,1
+German,word_strict,0
+Japanese,identity_phrase_as_a_X,22
+Japanese,word_emotional,0
+Japanese,word_polite,0
+Japanese,word_strict,0
+Turkish,identity_phrase_as_a_X,37
+Turkish,word_emotional,0
+Turkish,word_polite,3
+Turkish,word_strict,0

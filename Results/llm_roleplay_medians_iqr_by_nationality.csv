@@ -1,0 +1,13 @@
+nationality,level_1,Delta_SI
+Brazilian,median_Delta_SI,0.25098039215686274
+Brazilian,IQR_low,0.11428571428571428
+Brazilian,IQR_high,0.33371562555750944
+German,median_Delta_SI,0.3787878787878788
+German,IQR_low,0.11441371746715262
+German,IQR_high,0.40963588136001927
+Japanese,median_Delta_SI,0.0932721194402189
+Japanese,IQR_low,0.0
+Japanese,IQR_high,0.4407107961981579
+Turkish,median_Delta_SI,0.39312039312039315
+Turkish,IQR_low,0.23909361485208755
+Turkish,IQR_high,0.4961847759400076

@@ -1,0 +1,10 @@
+role,level_1,Delta_SI
+parent,median_Delta_SI,0.467997291079829
+parent,IQR_low,0.3811821437748488
+parent,IQR_high,0.58326514023476
+service worker or friend,median_Delta_SI,0.11603038814534102
+service worker or friend,IQR_low,0.09341148780397995
+service worker or friend,IQR_high,0.3823710073710074
+teacher,median_Delta_SI,0.037228110350287974
+teacher,IQR_low,0.0
+teacher,IQR_high,0.27166420050702444
