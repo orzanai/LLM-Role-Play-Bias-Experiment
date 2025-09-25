@@ -1,0 +1,25 @@
+nationality,role,condition,SI
+Brazilian,parent,mitigated,0.10544302742352255
+Brazilian,parent,plain,0.5021745590665783
+Brazilian,service worker or friend,mitigated,0.0
+Brazilian,service worker or friend,plain,0.38621725437062854
+Brazilian,teacher,mitigated,0.0
+Brazilian,teacher,plain,0.15045422812701298
+German,parent,mitigated,0.052083333333333336
+German,parent,plain,0.7306099136390141
+German,service worker or friend,mitigated,0.0
+German,service worker or friend,plain,0.2021083491671727
+German,teacher,mitigated,0.08032128514056226
+German,teacher,plain,0.3195213234895424
+Japanese,parent,mitigated,0.0
+Japanese,parent,plain,0.5351825032590339
+Japanese,service worker or friend,mitigated,0.047961630695443645
+Japanese,service worker or friend,plain,0.14516021138537696
+Japanese,teacher,mitigated,0.024783147459727383
+Japanese,teacher,plain,0.0
+Turkish,parent,mitigated,0.14310324642953226
+Turkish,parent,plain,0.7077549814431078
+Turkish,service worker or friend,mitigated,0.0
+Turkish,service worker or friend,plain,0.3707527696706954
+Turkish,teacher,mitigated,0.03663003663003663
+Turkish,teacher,plain,0.31331841018000833
