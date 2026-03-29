@@ -74,7 +74,7 @@ This project explores:
 - Additional CSVs: motif counts, medians/IQR, audit files  
 
 
-⚠️ **Note:** Due to university policy, the full paper **cannot be shared publicly**. This repository only provides code, datasets, and reproducibility materials.  
+**Note:** Due to university policy, the full paper **cannot be shared publicly**. This repository only provides code, datasets, and reproducibility materials.  
 
 ---
 
